@@ -38,7 +38,7 @@
         "id": "NfxUkT3GnBBr",
         "outputId": "02150383-f6ff-40df-b08c-69b4950c5171"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
