@@ -88,7 +88,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "id": "Z7vnCWMAjZQy"
       },
@@ -113,7 +113,7 @@
         "id": "pL-esL2ToLgN",
         "outputId": "754bcbe5-3457-4a73-8765-8e84d7014929"
       },
-      "execution_count": null,
+      "execution_count":None,
       "outputs": [
         {
           "output_type": "stream",
